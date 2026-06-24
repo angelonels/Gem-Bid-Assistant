@@ -1,0 +1,47 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python bytecode and build output
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments and local secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
+
+# Test, lint, type-check, and coverage caches
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyright/
+.tox/
+.nox/
+
+# Notebooks and local logs
+.ipynb_checkpoints/
+.playwright-cli/
+*.log
+
+# Raw GeM downloads
+data/cache/tenders/*.pdf
+data/cache/results/
