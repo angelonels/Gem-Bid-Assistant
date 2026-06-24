@@ -1,0 +1,148 @@
+{
+  "keyword": "laptop",
+  "collected_at": "2026-06-30T05:16:59.832059Z",
+  "active_tenders": [
+    {
+      "bid_id": "9344536",
+      "bid_number": "GEM/2026/B/7553726",
+      "category_name": "laptop",
+      "quantity": 7,
+      "document_url": "https://bidplus.gem.gov.in/showbidDocument/9344536",
+      "text_path": "data/cache/tenders/9344536.txt"
+    },
+    {
+      "bid_id": "9449802",
+      "bid_number": "GEM/2026/B/7647884",
+      "category_name": "Laptop wiith Processor Intel Core i7 13700HX,TABLET WITH AI",
+      "quantity": 2,
+      "document_url": "https://bidplus.gem.gov.in/showbidDocument/9449802",
+      "text_path": "data/cache/tenders/9449802.txt"
+    },
+    {
+      "bid_id": "9533386",
+      "bid_number": "GEM/2026/B/7722209",
+      "category_name": "Entry and Mid Level Laptop - Notebook",
+      "quantity": 2,
+      "document_url": "https://bidplus.gem.gov.in/showbidDocument/9533386",
+      "text_path": "data/cache/tenders/9533386.txt"
+    },
+    {
+      "bid_id": "9532862",
+      "bid_number": "GEM/2026/B/7721757",
+      "category_name": "Network Time Protocol Server based Master Clock,GNSS Antenna,Digital Slave Clock,GPS based Standalo",
+      "quantity": 114,
+      "document_url": "https://bidplus.gem.gov.in/showbidDocument/9532862",
+      "text_path": "data/cache/tenders/9532862.txt"
+    },
+    {
+      "bid_id": "9532011",
+      "bid_number": "GEM/2026/B/7721028",
+      "category_name": "Fanless Laptop13.6\",Smartphone with A18 Chip",
+      "quantity": 2,
+      "document_url": "https://bidplus.gem.gov.in/showbidDocument/9532011",
+      "text_path": "data/cache/tenders/9532011.txt"
+    }
+  ],
+  "historical_awards": [
+    {
+      "bid_id": "9526017",
+      "bid_number": "GEM/2026/R/688359",
+      "category_name": "Tab,M5 Chip Based Notebook 13 Inch,Window Laptop,Window Laptop X flip,Monochrome Printer,Color Prin",
+      "quantity": 20,
+      "total_price": 1932965.0,
+      "unit_price": 96648.25,
+      "seller_count": 3,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9526017"
+    },
+    {
+      "bid_id": "9493812",
+      "bid_number": "GEM/2026/B/7687272",
+      "category_name": "High End Laptop - Notebook",
+      "quantity": 1,
+      "total_price": 82222.0,
+      "unit_price": 82222.0,
+      "seller_count": 5,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9493812"
+    },
+    {
+      "bid_id": "9524600",
+      "bid_number": "GEM/2026/R/688254",
+      "category_name": "Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; HP, Dell, Acer,Annual",
+      "quantity": 873,
+      "total_price": 2129605.0,
+      "unit_price": 2439.410080183276,
+      "seller_count": 3,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9524600"
+    },
+    {
+      "bid_id": "9524255",
+      "bid_number": "GEM/2026/R/688215",
+      "category_name": "Professional Pilot Training software,High performance gaming laptop,USB Training Simulator controll",
+      "quantity": 28,
+      "total_price": 1997200.0,
+      "unit_price": 71328.57142857143,
+      "seller_count": 3,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9524255"
+    },
+    {
+      "bid_id": "9493711",
+      "bid_number": "GEM/2026/B/7687182",
+      "category_name": "Entry and Mid Level Laptop - Notebook",
+      "quantity": 5,
+      "total_price": 523330.0,
+      "unit_price": 104666.0,
+      "seller_count": 3,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9493711"
+    },
+    {
+      "bid_id": "9507252",
+      "bid_number": "GEM/2026/R/686534",
+      "category_name": "Desktop Computer,UPS,Laptop,MFD,Projector,Web Camera,Xerox cum Printer Machine Coloured,SSD 2 TB Ex",
+      "quantity": 48,
+      "total_price": 1942000.0,
+      "unit_price": 40458.333333333336,
+      "seller_count": 8,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9507252"
+    },
+    {
+      "bid_id": "9508176",
+      "bid_number": "GEM/2026/R/686608",
+      "category_name": "High End Laptop - Notebook",
+      "quantity": 3,
+      "total_price": 523110.0,
+      "unit_price": 174370.0,
+      "seller_count": 3,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9508176"
+    },
+    {
+      "bid_id": "9450322",
+      "bid_number": "GEM/2026/B/7648367",
+      "category_name": "Note Book Laptop",
+      "quantity": 1,
+      "total_price": 118000.0,
+      "unit_price": 118000.0,
+      "seller_count": 3,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9450322"
+    },
+    {
+      "bid_id": "9470737",
+      "bid_number": "GEM/2026/B/7666553",
+      "category_name": "laptop",
+      "quantity": 1,
+      "total_price": 117990.0,
+      "unit_price": 117990.0,
+      "seller_count": 3,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9470737"
+    },
+    {
+      "bid_id": "9455887",
+      "bid_number": "GEM/2026/B/7653421",
+      "category_name": "Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; other,Annual Maintena",
+      "quantity": 51,
+      "total_price": 149200.0,
+      "unit_price": 2925.4901960784314,
+      "seller_count": 7,
+      "result_url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9455887"
+    }
+  ]
+}
